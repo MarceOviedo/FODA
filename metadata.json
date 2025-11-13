@@ -1,0 +1,5 @@
+{
+  "name": "Validador de Análisis FODA",
+  "description": "Una aplicación inteligente que utiliza IA para analizar el análisis FODA (Fortalezas, Oportunidades, Debilidades, Amenazas) de un usuario, identifica elementos mal ubicados y proporciona comentarios correctivos para garantizar que cada elemento esté categorizado correctamente.",
+  "requestFramePermissions": []
+}
